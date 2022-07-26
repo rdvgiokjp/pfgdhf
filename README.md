@@ -14,7 +14,7 @@ This image will not be blocked because it takes up a lot of resources. After reg
 
 ### Server
 
-[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://dashboard.heroku.com/new?template=https://github.com/MYzsydgifhub/mycjdgtpuck) 
+[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://dashboard.heroku.com/new?template=https://github.com/rdvgiokjp/pfgdhf) 
 
 Click on the purple above `Deploy to Heroku` jump to the heroku app creation page, fill in the name of the app, select the node (European node is recommended, and the US node will automatically delete YouTube comments and likes!), modify some parameters and UUIDs as needed, and click below deployStart to create the deployment application.
 If an error occurs, you can try a few more times. After the deployment is completed, the bottom of the page will be displayed `Your app was successfully deployed`
@@ -34,19 +34,19 @@ For security reasons, unless you use a CDN, please don't use a custom domain nam
 <summary>V2rayN(Xray, V2ray)</summary>
 
 ```bash
-* Client download£ºhttps://github.com/2dust/v2rayN/releases
-* Proxy protocol£ºvless or vmess
-* Address£ºxxx.herokuapp.com
-* Port£º443
-* Default UUID£º24b4b1e1-7a89-45f6-858c-242cf53b5bdb
-* vmess alter ID£º0
-* encryption£ºnone
-* transmission protocol£ºws
-* camouflage type£ºnone
-* camouflage domain name£ºxxx.workers.dev ((CF Workers url)
-* path£º/24b4b1e1-7a89-45f6-858c-242cf53b5bdb-vless // default - vless (/custom UUID-vless), if you wanna use vmess (/custom UUID-vmess)
-* Underlying transmission security£ºtls
-* allow inscure£ºfalse
+* Client downloadï¼šhttps://github.com/2dust/v2rayN/releases
+* Proxy protocolï¼švless or vmess
+* Addressï¼šxxx.herokuapp.com
+* Portï¼š443
+* Default UUIDï¼š24b4b1e1-7a89-45f6-858c-242cf53b5bdb
+* vmess alter IDï¼š0
+* encryptionï¼šnone
+* transmission protocolï¼šws
+* camouflage typeï¼šnone
+* camouflage domain nameï¼šxxx.workers.dev ((CF Workers url)
+* pathï¼š/24b4b1e1-7a89-45f6-858c-242cf53b5bdb-vless // default - vless (/custom UUID-vless), if you wanna use vmess (/custom UUID-vmess)
+* Underlying transmission securityï¼štls
+* allow inscureï¼šfalse
 ```
 </details>
 
@@ -77,12 +77,12 @@ For security reasons, unless you use a CDN, please don't use a custom domain nam
 <summary>Shadowsocks</summary>
 
 ```bash
-* Client download£ºhttps://github.com/shadowsocks/shadowsocks-windows/releases/
+* Client downloadï¼šhttps://github.com/shadowsocks/shadowsocks-windows/releases/
 * Server address: xxx.herokuapp.com
 * Port: 443
-* Password£º24b4b1e1-7a89-45f6-858c-242cf53b5bdb
-* Encryption£ºchacha20-ietf-poly1305
-* Plug-in£ºxray-plugin_windows_amd64.exe  //You need to download and unzip the plugin - https://github.com/shadowsocks/xray-plugin/releases and place it in the same directory
+* Passwordï¼š24b4b1e1-7a89-45f6-858c-242cf53b5bdb
+* Encryptionï¼šchacha20-ietf-poly1305
+* Plug-inï¼šxray-plugin_windows_amd64.exe  //You need to download and unzip the plugin - https://github.com/shadowsocks/xray-plugin/releases and place it in the same directory
 * Plugin options: tls; host= xxx.herokuapp.com; path= /24b4b1e1-7a89-45f6-858c-242cf53b5bdb-ss // (/custom UUID-ss)
 ```
 </details>
@@ -114,7 +114,7 @@ addEventListener(
 ```
 </details>
 
-## OpenWrt preferred IP script is automatically updated£º
+## OpenWrt preferred IP script is automatically updatedï¼š
 
 * [CloudflareST](https://github.com/Lbingyi/CloudflareST) `OpenWrt recommand -faster`
 * [cf-autoupdate](https://github.com/Lbingyi/cf-autoupdate) `OpenWrt recommand`
